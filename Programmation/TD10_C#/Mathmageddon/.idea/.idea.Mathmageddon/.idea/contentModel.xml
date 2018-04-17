@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Mathmageddon.1428036709.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Documents\Ecole\Progra\TD10_C#\Mathmageddon" t="IncludeFlat">
+      <e p="Mathmageddon" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Derivative.cs" t="Include" />
+        <e p="docs" t="Include">
+          <e p="allclasses-frame.html" t="Include" />
+          <e p="allclasses-noframe.html" t="Include" />
+          <e p="constant-values.html" t="Include" />
+          <e p="deprecated-list.html" t="Include" />
+          <e p="help-doc.html" t="Include" />
+          <e p="index-files" t="Include">
+            <e p="index-1.html" t="Include" />
+            <e p="index-10.html" t="Include" />
+            <e p="index-11.html" t="Include" />
+            <e p="index-12.html" t="Include" />
+            <e p="index-13.html" t="Include" />
+            <e p="index-14.html" t="Include" />
+            <e p="index-15.html" t="Include" />
+            <e p="index-16.html" t="Include" />
+            <e p="index-17.html" t="Include" />
+            <e p="index-18.html" t="Include" />
+            <e p="index-19.html" t="Include" />
+            <e p="index-2.html" t="Include" />
+            <e p="index-20.html" t="Include" />
+            <e p="index-21.html" t="Include" />
+            <e p="index-22.html" t="Include" />
+            <e p="index-23.html" t="Include" />
+            <e p="index-24.html" t="Include" />
+            <e p="index-25.html" t="Include" />
+            <e p="index-26.html" t="Include" />
+            <e p="index-3.html" t="Include" />
+            <e p="index-4.html" t="Include" />
+            <e p="index-5.html" t="Include" />
+            <e p="index-6.html" t="Include" />
+            <e p="index-7.html" t="Include" />
+            <e p="index-8.html" t="Include" />
+            <e p="index-9.html" t="Include" />
+          </e>
+          <e p="index.html" t="Include" />
+          <e p="org" t="Include">
+            <e p="mariuszgromada" t="Include">
+              <e p="math" t="Include">
+                <e p="mxparser" t="Include">
+                  <e p="Argument.html" t="Include" />
+                  <e p="class-use" t="Include">
+                    <e p="Argument.html" t="Include" />
+                    <e p="Constant.html" t="Include" />
+                    <e p="Expression.html" t="Include" />
+                    <e p="Function.html" t="Include" />
+                    <e p="FunctionExtension.html" t="Include" />
+                    <e p="mXparser.html" t="Include" />
+                    <e p="PrimitiveElement.html" t="Include" />
+                    <e p="RecursiveArgument.html" t="Include" />
+                    <e p="Tutorial.html" t="Include" />
+                  </e>
+                  <e p="Constant.html" t="Include" />
+                  <e p="Expression.html" t="Include" />
+                  <e p="Function.html" t="Include" />
+                  <e p="FunctionExtension.html" t="Include" />
+                  <e p="mathcollection" t="Include">
+                    <e p="AstronomicalConstants.html" t="Include" />
+                    <e p="BinaryRelations.html" t="Include" />
+                    <e p="BooleanAlgebra.html" t="Include" />
+                    <e p="Calculus.html" t="Include" />
+                    <e p="class-use" t="Include">
+                      <e p="AstronomicalConstants.html" t="Include" />
+                      <e p="BinaryRelations.html" t="Include" />
+                      <e p="BooleanAlgebra.html" t="Include" />
+                      <e p="Calculus.html" t="Include" />
+                      <e p="Evaluate.html" t="Include" />
+                      <e p="MathConstants.html" t="Include" />
+                      <e p="MathFunctions.html" t="Include" />
+                      <e p="NumberTheory.html" t="Include" />
+                      <e p="PhysicalConstants.html" t="Include" />
+                      <e p="PrimesCache.html" t="Include" />
+                      <e p="ProbabilityDistributions.html" t="Include" />
+                      <e p="SpecialFunctions.html" t="Include" />
+                      <e p="Statistics.html" t="Include" />
+                      <e p="Units.html" t="Include" />
+                    </e>
+                    <e p="Evaluate.html" t="Include" />
+                    <e p="MathConstants.html" t="Include" />
+                    <e p="MathFunctions.html" t="Include" />
+                    <e p="NumberTheory.html" t="Include" />
+                    <e p="package-frame.html" t="Include" />
+                    <e p="package-summary.html" t="Include" />
+                    <e p="package-tree.html" t="Include" />
+                    <e p="package-use.html" t="Include" />
+                    <e p="PhysicalConstants.html" t="Include" />
+                    <e p="PrimesCache.html" t="Include" />
+                    <e p="ProbabilityDistributions.html" t="Include" />
+                    <e p="SpecialFunctions.html" t="Include" />
+                    <e p="Statistics.html" t="Include" />
+                    <e p="Units.html" t="Include" />
+                  </e>
+                  <e p="mXparser.html" t="Include" />
+                  <e p="package-frame.html" t="Include" />
+                  <e p="package-summary.html" t="Include" />
+                  <e p="package-tree.html" t="Include" />
+                  <e p="package-use.html" t="Include" />
+                  <e p="parsertokens" t="Include">
+                    <e p="BinaryRelation.html" t="Include" />
+                    <e p="BitwiseOperator.html" t="Include" />
+                    <e p="BooleanOperator.html" t="Include" />
+                    <e p="CalculusOperator.html" t="Include" />
+                    <e p="class-use" t="Include">
+                      <e p="BinaryRelation.html" t="Include" />
+                      <e p="BitwiseOperator.html" t="Include" />
+                      <e p="BooleanOperator.html" t="Include" />
+                      <e p="CalculusOperator.html" t="Include" />
+                      <e p="ConstantValue.html" t="Include" />
+                      <e p="Function1Arg.html" t="Include" />
+                      <e p="Function2Arg.html" t="Include" />
+                      <e p="Function3Arg.html" t="Include" />
+                      <e p="FunctionVariadic.html" t="Include" />
+                      <e p="KeyWord.html" t="Include" />
+                      <e p="Operator.html" t="Include" />
+                      <e p="ParserSymbol.html" t="Include" />
+                      <e p="RandomVariable.html" t="Include" />
+                      <e p="Token.html" t="Include" />
+                      <e p="Unit.html" t="Include" />
+                    </e>
+                    <e p="ConstantValue.html" t="Include" />
+                    <e p="Function1Arg.html" t="Include" />
+                    <e p="Function2Arg.html" t="Include" />
+                    <e p="Function3Arg.html" t="Include" />
+                    <e p="FunctionVariadic.html" t="Include" />
+                    <e p="KeyWord.html" t="Include" />
+                    <e p="Operator.html" t="Include" />
+                    <e p="package-frame.html" t="Include" />
+                    <e p="package-summary.html" t="Include" />
+                    <e p="package-tree.html" t="Include" />
+                    <e p="package-use.html" t="Include" />
+                    <e p="ParserSymbol.html" t="Include" />
+                    <e p="RandomVariable.html" t="Include" />
+                    <e p="Token.html" t="Include" />
+                    <e p="Unit.html" t="Include" />
+                  </e>
+                  <e p="PrimitiveElement.html" t="Include" />
+                  <e p="RecursiveArgument.html" t="Include" />
+                  <e p="regressiontesting" t="Include">
+                    <e p="class-use" t="Include">
+                      <e p="PerformanceTests.html" t="Include" />
+                      <e p="RegTestExpression.html" t="Include" />
+                      <e p="RegTestExpressionAPI.html" t="Include" />
+                      <e p="RegTestSyntax.html" t="Include" />
+                      <e p="RunTest.html" t="Include" />
+                    </e>
+                    <e p="package-frame.html" t="Include" />
+                    <e p="package-summary.html" t="Include" />
+                    <e p="package-tree.html" t="Include" />
+                    <e p="package-use.html" t="Include" />
+                    <e p="PerformanceTests.html" t="Include" />
+                    <e p="RegTestExpression.html" t="Include" />
+                    <e p="RegTestExpressionAPI.html" t="Include" />
+                    <e p="RegTestSyntax.html" t="Include" />
+                    <e p="RunTest.html" t="Include" />
+                  </e>
+                  <e p="Tutorial.html" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="overview-frame.html" t="Include" />
+          <e p="overview-summary.html" t="Include" />
+          <e p="overview-tree.html" t="Include" />
+          <e p="script.js" t="Include" />
+          <e p="stylesheet.css" t="Include" />
+        </e>
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="GaussQuadrature.cs" t="Include" />
+        <e p="Integral.cs" t="Include" />
+        <e p="Mathmageddon.csproj" t="IncludeRecursive" />
+        <e p="NewtonQuadrature.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="Mathmageddon.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

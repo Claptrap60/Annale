@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37955c6f-5087-419e-92cf-8e47127fee06" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NewtonQuadrature.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integral.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GaussQuadrature.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Derivative.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.Designer.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="400" column="33" lean-forward="false" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+              <folding>
+                <marker date="1519018410000" expanded="true" signature="15:20240" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="41:20238" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="56:132" ph="/// Required designer variable. ... " />
+                <marker date="1519018410000" expanded="true" signature="210:401" ph="/// Clean up any resources being used. ... " />
+                <marker date="1519018410000" expanded="true" signature="457:631" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="518:584" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="641:18730" ph="Windows Form Designer generated code" />
+                <marker date="1519018410000" expanded="true" signature="695:858" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1519018410000" expanded="true" signature="901:18710" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="3397:3438" ph="/* chart1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="4267:4308" ph="/* label1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="4576:4617" ph="/* label2 ... */" />
+                <marker date="1519018410000" expanded="true" signature="4885:4928" ph="/* textBox1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="5308:5349" ph="/* label3 ... */" />
+                <marker date="1519018410000" expanded="true" signature="5755:5796" ph="/* label4 ... */" />
+                <marker date="1519018410000" expanded="true" signature="6161:6202" ph="/* label5 ... */" />
+                <marker date="1519018410000" expanded="true" signature="6526:6567" ph="/* textNB ... */" />
+                <marker date="1519018410000" expanded="true" signature="7184:7225" ph="/* label9 ... */" />
+                <marker date="1519018410000" expanded="true" signature="7611:7651" ph="/* textB ... */" />
+                <marker date="1519018410000" expanded="true" signature="8144:8185" ph="/* label8 ... */" />
+                <marker date="1519018410000" expanded="true" signature="8738:8778" ph="/* textA ... */" />
+                <marker date="1519018410000" expanded="true" signature="9270:9311" ph="/* label7 ... */" />
+                <marker date="1519018410000" expanded="true" signature="9701:9742" ph="/* label6 ... */" />
+                <marker date="1519018410000" expanded="true" signature="10146:10188" ph="/* label10 ... */" />
+                <marker date="1519018410000" expanded="true" signature="10540:10582" ph="/* label11 ... */" />
+                <marker date="1519018410000" expanded="true" signature="10934:10976" ph="/* button1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="11396:11438" ph="/* button2 ... */" />
+                <marker date="1519018410000" expanded="true" signature="11858:11900" ph="/* label12 ... */" />
+                <marker date="1519018410000" expanded="true" signature="12252:12294" ph="/* label13 ... */" />
+                <marker date="1519018410000" expanded="true" signature="12666:12708" ph="/* button4 ... */" />
+                <marker date="1519018410000" expanded="true" signature="13129:13171" ph="/* button5 ... */" />
+                <marker date="1519018410000" expanded="true" signature="13593:13633" ph="/* textI ... */" />
+                <marker date="1519018410000" expanded="true" signature="14124:14166" ph="/* label14 ... */" />
+                <marker date="1519018410000" expanded="true" signature="14488:14529" ph="/* panel1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="14759:14803" ph="/* trackBarI ... */" />
+                <marker date="1519018410000" expanded="true" signature="15373:15415" ph="/* button3 ... */" />
+                <marker date="1519018410000" expanded="true" signature="15828:15877" ph="/* numericUpDown1 ... */" />
+                <marker date="1519018410000" expanded="true" signature="16022:16084" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="16151:16212" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="16453:16514" ph="{...}" />
+                <marker date="1519018410000" expanded="true" signature="16529:16569" ph="/* Form1 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="72" />
+    <option name="y" value="31" />
+    <option name="width" value="960" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Mathmageddon (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Mathmageddon/bin/Debug/TPC10.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathmageddon/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Mathmageddon/Mathmageddon.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37955c6f-5087-419e-92cf-8e47127fee06" name="Default" comment="" />
+      <created>1518696488799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518696488799</updated>
+      <workItem from="1518696491142" duration="61000" />
+      <workItem from="1518697344983" duration="261000" />
+      <workItem from="1519466296874" duration="23000" />
+      <workItem from="1519466358815" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1037000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22742857" sideWeight="0.5104167" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.49580714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22742857" sideWeight="0.48958334" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8800">
+          <caret line="400" column="33" lean-forward="false" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+          <folding>
+            <marker date="1519018410000" expanded="true" signature="15:20240" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="41:20238" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="56:132" ph="/// Required designer variable. ... " />
+            <marker date="1519018410000" expanded="true" signature="210:401" ph="/// Clean up any resources being used. ... " />
+            <marker date="1519018410000" expanded="true" signature="457:631" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="518:584" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="641:18730" ph="Windows Form Designer generated code" />
+            <marker date="1519018410000" expanded="true" signature="695:858" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1519018410000" expanded="true" signature="901:18710" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="3397:3438" ph="/* chart1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4267:4308" ph="/* label1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4576:4617" ph="/* label2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4885:4928" ph="/* textBox1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5308:5349" ph="/* label3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5755:5796" ph="/* label4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6161:6202" ph="/* label5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6526:6567" ph="/* textNB ... */" />
+            <marker date="1519018410000" expanded="true" signature="7184:7225" ph="/* label9 ... */" />
+            <marker date="1519018410000" expanded="true" signature="7611:7651" ph="/* textB ... */" />
+            <marker date="1519018410000" expanded="true" signature="8144:8185" ph="/* label8 ... */" />
+            <marker date="1519018410000" expanded="true" signature="8738:8778" ph="/* textA ... */" />
+            <marker date="1519018410000" expanded="true" signature="9270:9311" ph="/* label7 ... */" />
+            <marker date="1519018410000" expanded="true" signature="9701:9742" ph="/* label6 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10146:10188" ph="/* label10 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10540:10582" ph="/* label11 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10934:10976" ph="/* button1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11396:11438" ph="/* button2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11858:11900" ph="/* label12 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12252:12294" ph="/* label13 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12666:12708" ph="/* button4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13129:13171" ph="/* button5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13593:13633" ph="/* textI ... */" />
+            <marker date="1519018410000" expanded="true" signature="14124:14166" ph="/* label14 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14488:14529" ph="/* panel1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14759:14803" ph="/* trackBarI ... */" />
+            <marker date="1519018410000" expanded="true" signature="15373:15415" ph="/* button3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="15828:15877" ph="/* numericUpDown1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="16022:16084" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16151:16212" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16453:16514" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16529:16569" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8800">
+          <caret line="400" column="33" lean-forward="false" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+          <folding>
+            <marker date="1519018410000" expanded="true" signature="15:20240" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="41:20238" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="56:132" ph="/// Required designer variable. ... " />
+            <marker date="1519018410000" expanded="true" signature="210:401" ph="/// Clean up any resources being used. ... " />
+            <marker date="1519018410000" expanded="true" signature="457:631" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="518:584" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="641:18730" ph="Windows Form Designer generated code" />
+            <marker date="1519018410000" expanded="true" signature="695:858" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1519018410000" expanded="true" signature="901:18710" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="3397:3438" ph="/* chart1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4267:4308" ph="/* label1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4576:4617" ph="/* label2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4885:4928" ph="/* textBox1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5308:5349" ph="/* label3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5755:5796" ph="/* label4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6161:6202" ph="/* label5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6526:6567" ph="/* textNB ... */" />
+            <marker date="1519018410000" expanded="true" signature="7184:7225" ph="/* label9 ... */" />
+            <marker date="1519018410000" expanded="true" signature="7611:7651" ph="/* textB ... */" />
+            <marker date="1519018410000" expanded="true" signature="8144:8185" ph="/* label8 ... */" />
+            <marker date="1519018410000" expanded="true" signature="8738:8778" ph="/* textA ... */" />
+            <marker date="1519018410000" expanded="true" signature="9270:9311" ph="/* label7 ... */" />
+            <marker date="1519018410000" expanded="true" signature="9701:9742" ph="/* label6 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10146:10188" ph="/* label10 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10540:10582" ph="/* label11 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10934:10976" ph="/* button1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11396:11438" ph="/* button2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11858:11900" ph="/* label12 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12252:12294" ph="/* label13 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12666:12708" ph="/* button4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13129:13171" ph="/* button5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13593:13633" ph="/* textI ... */" />
+            <marker date="1519018410000" expanded="true" signature="14124:14166" ph="/* label14 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14488:14529" ph="/* panel1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14759:14803" ph="/* trackBarI ... */" />
+            <marker date="1519018410000" expanded="true" signature="15373:15415" ph="/* button3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="15828:15877" ph="/* numericUpDown1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="16022:16084" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16151:16212" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16453:16514" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16529:16569" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/NewtonQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Integral.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/GaussQuadrature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Derivative.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mathmageddon/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="400" column="33" lean-forward="false" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+          <folding>
+            <marker date="1519018410000" expanded="true" signature="15:20240" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="41:20238" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="56:132" ph="/// Required designer variable. ... " />
+            <marker date="1519018410000" expanded="true" signature="210:401" ph="/// Clean up any resources being used. ... " />
+            <marker date="1519018410000" expanded="true" signature="457:631" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="518:584" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="641:18730" ph="Windows Form Designer generated code" />
+            <marker date="1519018410000" expanded="true" signature="695:858" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1519018410000" expanded="true" signature="901:18710" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="3397:3438" ph="/* chart1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4267:4308" ph="/* label1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4576:4617" ph="/* label2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="4885:4928" ph="/* textBox1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5308:5349" ph="/* label3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="5755:5796" ph="/* label4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6161:6202" ph="/* label5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="6526:6567" ph="/* textNB ... */" />
+            <marker date="1519018410000" expanded="true" signature="7184:7225" ph="/* label9 ... */" />
+            <marker date="1519018410000" expanded="true" signature="7611:7651" ph="/* textB ... */" />
+            <marker date="1519018410000" expanded="true" signature="8144:8185" ph="/* label8 ... */" />
+            <marker date="1519018410000" expanded="true" signature="8738:8778" ph="/* textA ... */" />
+            <marker date="1519018410000" expanded="true" signature="9270:9311" ph="/* label7 ... */" />
+            <marker date="1519018410000" expanded="true" signature="9701:9742" ph="/* label6 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10146:10188" ph="/* label10 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10540:10582" ph="/* label11 ... */" />
+            <marker date="1519018410000" expanded="true" signature="10934:10976" ph="/* button1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11396:11438" ph="/* button2 ... */" />
+            <marker date="1519018410000" expanded="true" signature="11858:11900" ph="/* label12 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12252:12294" ph="/* label13 ... */" />
+            <marker date="1519018410000" expanded="true" signature="12666:12708" ph="/* button4 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13129:13171" ph="/* button5 ... */" />
+            <marker date="1519018410000" expanded="true" signature="13593:13633" ph="/* textI ... */" />
+            <marker date="1519018410000" expanded="true" signature="14124:14166" ph="/* label14 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14488:14529" ph="/* panel1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="14759:14803" ph="/* trackBarI ... */" />
+            <marker date="1519018410000" expanded="true" signature="15373:15415" ph="/* button3 ... */" />
+            <marker date="1519018410000" expanded="true" signature="15828:15877" ph="/* numericUpDown1 ... */" />
+            <marker date="1519018410000" expanded="true" signature="16022:16084" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16151:16212" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16453:16514" ph="{...}" />
+            <marker date="1519018410000" expanded="true" signature="16529:16569" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
